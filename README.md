@@ -148,7 +148,7 @@ npx expo install react-native-safe-area-context \
 ![Saved Page](screenshots/Saved.jpeg)  
 
 ** Search List Page**  
-![Search List Page Page](screenshots/SearchList.jpeg)  
+![Search List Page Page](screenshots/SerachList.jpeg)  
 
 ---
 
