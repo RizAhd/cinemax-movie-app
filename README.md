@@ -65,6 +65,7 @@ EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_appwrite_project_id
 EXPO_PUBLIC_APPWRITE_DATABASE_ID=your_database_id
 EXPO_PUBLIC_APPWRITE_PROJECT_NAME=cinemax-movies
 
+```
 ---
 
 ### 3️⃣ **Create Expo Projec**
