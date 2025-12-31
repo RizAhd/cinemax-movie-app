@@ -38,7 +38,7 @@ With a sleek dark theme accented by vibrant blues, it offers trending movies, pe
 
 ---
 
----
+
 
 ## 🛠️ Setup Instructions
 
@@ -126,7 +126,7 @@ npx expo install react-native-safe-area-context \
 }
 
 ---
-
+---
 
 ### 3. Screenshots
 
